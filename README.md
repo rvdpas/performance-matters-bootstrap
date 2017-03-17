@@ -2,7 +2,7 @@
 
 ## Project setup
 
-This project serves an adapted version of the [Bootstrap documentation website](http://getbootstrap.com/). It is based on the [github pages branche of Bootstrap](https://github.com/twbs/bootstrap/tree/gh-pages). 
+This project serves an adapted version of the [Bootstrap documentation website](http://getbootstrap.com/). It is based on the [github pages branch of Bootstrap](https://github.com/twbs/bootstrap/tree/gh-pages). 
 
 Differences from actual Bootstrap documentation:
 
